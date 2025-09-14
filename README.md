@@ -1,8 +1,9 @@
 
 <img width="1200" height="400" alt="Splash" src="https://github.com/user-attachments/assets/d2d1da5d-6e1e-4463-bd40-f47c0ee3d30d" />
-# HNAR-Sourcecode-Jacket-Branch
+
 
 This is the Source code to hnar 3.0
+this was made public out of spite. just to prove to everyone how much of a headache it was to work on 
 This Code is only for those who feel brave & understand UE4
 YOU ARE GOING TO NEED VISUAL STUDIO.
 
